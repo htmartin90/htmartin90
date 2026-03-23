@@ -33,12 +33,24 @@ Responsive travel site built from mockups using a mobile-first approach.
 
 ## 🛠 Skills
 
-**Frontend**        **Backend**          **Database**          **Tools**
-- HTML              - Node.js            - MySQL               - Git & GitHub
-- CSS               - Express                                  - VS Code
-- JavaScript                                                   - Figma
-- jQuery                                                       - Adobe Creative Cloud
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
+**Backend**
+- Node.js
+- Express
+
+**Database**
+- MySQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Figma
+- Adobe Creative Cloud
 
 ---
 
