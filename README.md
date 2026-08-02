@@ -12,7 +12,7 @@ I’m a web developer and Arizona State University graduate with a Bachelor of S
 
 ## 💻 Projects
 
-### Customer Support Request Portal (In Progress)
+### [Customer Support Request Portal](https://github.com/htmartin90/support-portal) (In Progress)
 Full-stack app for organizing and managing internal support requests.  
 Backend currently built with Node.js and a database.
 
