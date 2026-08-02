@@ -6,8 +6,7 @@ Full-stack web developer focused on building clean, structured applications that
 
 ## 👋 About Me
 
-I’m a senior at Arizona State University studying Graphic Information Technology with a focus in full-stack web development. 
-I’m interested in building applications that solve real problems without overcomplicating the experience.
+I’m a full-stack web developer and Arizona State University graduate with a Bachelor of Science in Graphic Information Technology. I build user-centered applications that solve real problems without overcomplicating the experience.
 
 ---
 
