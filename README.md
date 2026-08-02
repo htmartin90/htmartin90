@@ -1,12 +1,12 @@
 # Tyler Martin
 
-Full-stack web developer focused on building clean, structured applications that are easy to use.
+Web developer focused on building user-centered, accessible websites and database-driven applications.
 
 ---
 
 ## 👋 About Me
 
-I’m a full-stack web developer and Arizona State University graduate with a Bachelor of Science in Graphic Information Technology. I build user-centered applications that solve real problems without overcomplicating the experience.
+I’m a web developer and Arizona State University graduate with a Bachelor of Science in Graphic Information Technology. My degree focused on full-stack web development. I build user-centered websites and applications that solve real problems without overcomplicating the experience, drawing on my background in development, design, and SEO.
 
 ---
 
@@ -48,6 +48,7 @@ Responsive travel site built from mockups using a mobile-first approach.
 **Tools**
 - Git & GitHub
 - VS Code
+- OpenAI Codex
 - Figma
 - Adobe Creative Cloud
 
@@ -55,14 +56,14 @@ Responsive travel site built from mockups using a mobile-first approach.
 
 ## 🚧 Currently Working On
 
-- Building out a Customer Support Request Portal 
+- Building out a Customer Support Request Portal
 - Improving backend and database integration
-- Expanding my full-stack development skills
+- Expanding my web development skills
 
 ---
 
 ## 📫 Contact
 
 Email: h.tyler.martin@gmail.com  
-LinkedIn: https://www.linkedin.com/in/harrison-martin-webdev
-Portfolio: #
+LinkedIn: https://www.linkedin.com/in/harrison-martin-webdev  
+Portfolio: https://htmartin.dev
